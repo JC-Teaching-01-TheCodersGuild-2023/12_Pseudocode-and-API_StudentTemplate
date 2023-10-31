@@ -36,13 +36,13 @@ console.log([1,'2',true,[]]);
 /*
 // --------- Working with objects
 // const obj1 = {
-// 	fistName: 'Foo',
+// 	firstname: 'Foo',
 // 	lastName: 'Bar',
 //  age: 21
 // };
 
 // console.log(obj1);
-// console.log(obj1.fistName);
+// console.log(obj1.firstname);
 */
 
 // Demo - 4 - Loops - Example actual learning cover in next class
